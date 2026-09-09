@@ -1,0 +1,6 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/noto-sans-sc';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
