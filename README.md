@@ -26,13 +26,11 @@ http://localhost
 
 ## Common Commands
 
-```text
 | Command | Description |
 | --- | --- |
 | npm run dev | Start the development server |
 | npm run build | Build the project for production |
 | npm run format | Format the project with Prettier |
-```
 
 ## Project Structure
 
